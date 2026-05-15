@@ -1,56 +1,68 @@
 <h1 align="center">Hi there, I'm Akash Gangadhari 👋</h1>
 
 <p align="center">
-  <b>Aspiring Data Analyst | Python • SQL • Power BI • Machine Learning</b>
+  <b>Data Analyst | Python • SQL • Power BI • Financial Analytics • Machine Learning</b>
 </p>
 
 <p align="center">
   📍 Hyderabad, India &nbsp;|&nbsp;
-  📧 <a href="mailto:your-gangadhariakash08754@gmail.com">-gangadhariakash08754@gmail.com</a> &nbsp;|&nbsp;
-  💼 <a href="https://linkedin.com/in/your-">LinkedIn</a>
+  📧 <a href="mailto:gangadhariakash08754@gmail.com">gangadhariakash08754@gmail.com</a> &nbsp;|&nbsp;
+  💼 <a href="https://linkedin.com/in/akash-gangadhari-215882323">LinkedIn</a> &nbsp;|&nbsp;
+  🔗 <a href="https://github.com/GangadhariAkash">GitHub</a>
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate data enthusiast who loves turning raw data into meaningful insights. I specialize in exploratory data analysis, data cleaning, and building dashboards that help businesses make smarter decisions.
+I am an aspiring Data Analyst with hands-on experience in Python, SQL, Pandas, Power BI, and Machine Learning.
 
-- 🔍 Currently exploring **Machine Learning** and **Data Visualization**
-- 🌱 Always learning something new in the data world
-- 💡 Interested in real-world data problems across e-commerce, entertainment, and sales
-- 🤝 Open to collaborating on data projects and internships
+I enjoy solving real-world business problems using data analytics and building dashboards that help organizations make data-driven decisions.
+
+* 📊 Skilled in Data Analysis, KPI Reporting, Dashboard Development, and Business Analytics
+* 💰 Interested in Financial Analytics, Business Intelligence, and Revenue Optimization
+* 🧠 Experienced in Machine Learning, SQL Analysis, and Power BI Dashboarding
+* 🚀 Currently building end-to-end analytics projects using Python and Power BI
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Tools |
-|---|---|
-| **Languages** | Python, SQL |
-| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
-| **Databases** | MySQL |
-| **Visualization** | Power BI, Matplotlib |
-| **Tools** | Jupyter Notebook, Git, GitHub, VS Code |
+| Category      | Tools                                            |
+| ------------- | ------------------------------------------------ |
+| Languages     | Python, SQL                                      |
+| Libraries     | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| Databases     | MySQL                                            |
+| Visualization | Power BI, Matplotlib                             |
+| Tools         | Jupyter Notebook, Git, GitHub, VS Code           |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 [Sales Dashboard](https://github.com/GangadhariAkash/sales-dashboard)
-> Interactive dashboard providing real-time insights into business performance to support data-driven decision making.
+### 💰 Revenue Leakage & Profitability Analysis
 
-### 📈 [Sales Trend Analysis](https://github.com/GangadhariAkash/sales-trend-analysis)
-> SQL-based analysis on an online sales dataset — grouped by year and month to calculate total revenue and order volume using aggregate functions.
+End-to-end financial analytics project using Python and Power BI to identify hidden revenue leakage, discount impact, and profitability trends.
 
-### 🎬 [Netflix EDA using Pandas](https://github.com/GangadhariAkash/Netflix-using-pandas)
-> Exploratory data analysis on Netflix's content library using Python's Pandas — uncovering trends in genres, ratings, and release patterns.
+### 💳 UPI Transaction Analytics & Fraud Detection
 
-### 🧹 [Netflix Data Cleaning](https://github.com/GangadhariAkash/internship-netflix)
-> End-to-end data cleaning pipeline: handling missing values, duplicates, inconsistent text formats, date and numeric conversions.
+Analyzed digital payment transactions using Python, SQL, Pandas, and Power BI to identify fraud patterns, failed transactions, and customer spending behavior.
 
-### 🛒 [E-Commerce Return Analysis](https://github.com/GangadhariAkash/ecommerce-return-analysis)
-> Python project analyzing product return rates using Pandas and Logistic Regression to identify patterns and reduce returns.
+### 👥 HR Attrition Dashboard
+
+Interactive Power BI dashboard analyzing employee attrition trends, salary impact, and workforce KPIs.
+
+### 🧠 Fake Job Detection System
+
+Machine Learning and NLP project to identify fraudulent job postings using classification algorithms.
+
+### 🏠 Hyderabad Real Estate Analysis
+
+Analyzed Hyderabad residential property prices, rental yields, and growth trends using Excel and Power BI.
+
+### 📉 Customer Churn Prediction
+
+Machine learning project predicting customer churn using classification algorithms and business-focused analytics.
 
 ---
 
@@ -67,11 +79,17 @@ I'm a passionate data enthusiast who loves turning raw data into meaningful insi
 ## 📬 Let's Connect
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/akash-gangadhari-215882323">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
   &nbsp;
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:gangadhariakash08754@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<p align="center">⭐ Feel free to explore my repositories and drop a star if you find something useful!</p>
+<p align="center">
+⭐ Feel free to explore my repositories and connect with me!
+</p>

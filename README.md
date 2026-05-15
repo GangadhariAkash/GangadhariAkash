@@ -6,7 +6,7 @@
 
 <p align="center">
   📍 Hyderabad, India &nbsp;|&nbsp;
-  📧 <a href="mailto:your-gangadhariakash08754@gmail.com">your-gangadhariakash08754@gmail.com</a> &nbsp;|&nbsp;
+  📧 <a href="mailto:your-gangadhariakash08754@gmail.com">-gangadhariakash08754@gmail.com</a> &nbsp;|&nbsp;
   💼 <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
 </p>
 
